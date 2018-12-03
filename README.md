@@ -1,1 +1,3 @@
 # BAT-Installation
+
+A selection of .bat files that checks if the program is installed before installing from file share.
